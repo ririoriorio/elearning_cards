@@ -151,8 +151,8 @@ echo "* $ git add -A"
 git add -A
 echo '* $ git commit -m "first commit (reference: https://github.com/cs-u-gakugei-ac-jp/java_app_sample)'
 git commit -m "first commit (reference: https://github.com/cs-u-gakugei-ac-jp/java_app_sample)"
-echo "* $ git push origin master"
-git push origin master
+echo "* $ git push origin main"
+git push origin main
 echo "* done!"
 
 echo "\nセットアップが完了しました。以下の手順に則ると、開発を始められます。"
